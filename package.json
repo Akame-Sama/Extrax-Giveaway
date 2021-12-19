@@ -1,0 +1,24 @@
+{
+  "name": "hello-node",
+  "version": "0.0.1",
+  "description": "A simple Node app built on fastify, instantly up and running.",
+  "main": "konaha.js",
+  "scripts": {
+    "start": "node konaha.js"
+  },
+  "dependencies": {
+    "aoi.js": "^4.6.0"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-hello-node"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
